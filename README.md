@@ -14,6 +14,8 @@ This data analysis is focused on data wrangling, data cleaning and data visuliza
 
 The dataset is derived from 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE.
 
-Here is the link consisting of all datased regarding Coronavirus
+Here is the link consisting of all datasets regarding Coronavirus
 
 https://github.com/CSSEGISandData/COVID-19
+
+https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
